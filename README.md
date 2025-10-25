@@ -17,7 +17,7 @@ it has options such as: **case sensitivity**, **exact matches**, and automatic *
 
 -----------------------------------------------------------------------------------------------
 
-![Screenshot](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot")
+![Screenshot](https://github.com/BulletGG/DbSearcher/blob/master/image%20(2).png "Screenshot")
 
 -----------------------------------------------------------------------------------------------
 
