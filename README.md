@@ -30,7 +30,7 @@ git clone https://github.com/BulletGG/DbSearcher.git
 cd dbsearcher
 ```
 -----------------------------------------------------------------------------------------------
-#🧪Example output
+# 🧪Example output
 ```
 Search Query: your query
 Source File: C:\Users\user\directory\file.txt
@@ -40,11 +40,11 @@ Timestamp: 2025-10-25 21:15:31
 C:\Users\user\directory\file.txt:5(row): the info that was found
 ```
 -----------------------------------------------------------------------------------------------
-#🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
-#🌟 Support
+# 🌟 Support
 
 If you like this project, give it a ⭐ on GitHub!
