@@ -17,6 +17,10 @@ it has options such as: **case sensitivity**, **exact matches**, and automatic *
 
 -----------------------------------------------------------------------------------------------
 
+![Screenshot](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot")
+
+-----------------------------------------------------------------------------------------------
+
 ## 🛠️ Installation
 
 Clone it thru git or just click download and build no hassle or any depencies needed
@@ -28,7 +32,7 @@ cd dbsearcher
 -----------------------------------------------------------------------------------------------
 #🧪Example output
 ```
-Search Query: 1.
+Search Query: your query
 Source File: C:\Users\user\directory\file.txt
 Found Matches: 1
 Timestamp: 2025-10-25 21:15:31
